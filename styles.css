@@ -1,0 +1,36 @@
+h1{
+    font-family: cursive;
+    margin: 30px;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
+
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower',cursive;
+}
+
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.img1{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
